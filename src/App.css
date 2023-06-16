@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+.division{
+  background-image:url('https://media.istockphoto.com/photos/online-shopping-concept-laptop-and-shopping-cart-on-blue-background-picture-id1301022916?b=1&k=20&m=1301022916&s=170667a&w=0&h=SZwrubcWrhzWgomr41shkT15TzZyjta9ubUoFPbmEiM=');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.logindiv{
+    background-image:url('https://thumbs.dreamstime.com/b/man-using-mobile-payments-online-shopping-icon-customer-network-connection-screen-m-banking-omni-channel-78594771.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.form-group{
+    max-width: 350px;
+    min-height: 500px;
+    margin: 80px auto;
+    padding: 40px 30px 30px 0px; 
+    background-color: #ecf0f3;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: inset 8px 8px 8px #cbced1, inset -8px -8px 8px #fff;
+
+}
+.form-group placeholder{
+font-weight: 300;
+font-size: 1.4rem;
+letter-spacing: 1.3px;
+color: #555;
+}
+  .btn {
+    box-shadow: none;
+    width: 50%;
+    height: 40px;
+    background-color: #03A9F4;
+    color: #fff;
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px #b1b1b1,-3px -3px 3px #fff;
+    letter-spacing: 1.3px;
+}
+p{
+  margin:50px; 
+}
+.btn:hover {
+  background-color: #039BE5;
+}
+a{
+  text-decoration: none;
+  font-size: 0.8rem;
+  color: #03A9F4;
+}
+
+.btn-color {
+  width:150px;
+  border-radius: 50px;
+  color: #fff;
+  background-image: linear-gradient(to right, #FFD54F, #D500F9);
+  padding: 15px;
+  border: none !important;
+  margin-top: 10px; 
+
+}
+
+.btn-color:hover {
+  color: #fff;
+  background-image: linear-gradient(to right, #D500F9, #FFD54F);
+}
+
+h1 { 
+  color: red; 
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 275px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center; 
+  }
+
+h3{
+    color:blue;
+}
+marquee{
+  font-size:50px;
+}
